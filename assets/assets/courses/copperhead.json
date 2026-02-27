@@ -1,0 +1,551 @@
+{
+  "course_name": "Copperhead - Innisbrook Resort and Golf Club",
+  "location": "Palm Harbor, FL",
+  "par": 71,
+  "total_yardage": 7340,
+  "course_rating": 75.6,
+  "slope": 144,
+  "designer": "E. Lawrence Packard",
+  "year_opened": 1970,
+  "green_type": "TifEagle Bermuda",
+  "fairway_type": "Bermuda",
+  "typical_green_speed": "12-13 stimp (tournament)",
+  "pga_event": "Valspar Championship",
+  "pga_scoring_avg_2024": 71.39,
+  "pga_scoring_avg_2025": 71.65,
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "yardage": 560,
+      "tee_boxes": {"Black": 560, "Green": 528, "White": 521, "Gold": 456},
+      "nickname": null,
+      "fairway_widths": {"250": 36, "275": 27, "300": 18},
+      "elevation_change": -50,
+      "green_difficulty": 0.6,
+      "green_zones": [
+        {"location": "front_left", "decade_avg": 2.5445},
+        {"location": "center_right", "decade_avg": 2.48}
+      ],
+      "hazards": [
+        {"type": "bunker", "location": "left", "distance_from_tee": 280},
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 540},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 545}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.3},
+        "right": {"lie": "rough", "severity": 0.3},
+        "short": {"lie": "fairway", "severity": 0.1},
+        "long": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 18,
+      "pga_scoring_avg": 4.50,
+      "description": "Reachable par 5. 50+ foot downhill drop invites aggressive play. Sneakily pitched green.",
+      "strategy_notes": "Easiest hole on the course. With 295 driver, leaves ~265 to green. Reachable with 3W or layup to wedge distance. Start birdie momentum here."
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "yardage": 413,
+      "tee_boxes": {"Black": 413, "Green": 371, "White": 359, "Gold": 331},
+      "nickname": null,
+      "fairway_widths": {"250": 31, "275": 24, "300": 26},
+      "elevation_change": 5,
+      "green_difficulty": 0.65,
+      "green_zones": [
+        {"location": "center", "decade_avg": 2.5},
+        {"location": "greenside_right", "decade_avg": 2.8363}
+      ],
+      "hazards": [
+        {"type": "water", "location": "right", "distance_from_tee": 200, "distance_end": 380, "lateral_start": 8},
+        {"type": "rough", "location": "left", "distance_from_tee": 260},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 400}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.3},
+        "right": {"lie": "water", "severity": 1.0},
+        "short": {"lie": "fairway", "severity": 0.1},
+        "long": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 17,
+      "pga_scoring_avg": 3.85,
+      "description": "Shorter par 4 with uphill approach. Fairway bends awkwardly, water and rough lurk right.",
+      "strategy_notes": "Birdie opportunity. Slightly uphill. Water right makes right miss dangerous. Favor left side off tee."
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "yardage": 442,
+      "tee_boxes": {"Black": 442, "Green": 407, "White": 386, "Gold": 362},
+      "nickname": null,
+      "fairway_widths": {"250": 28, "275": 24, "300": 24},
+      "elevation_change": 0,
+      "green_difficulty": 0.75,
+      "green_zones": [
+        {"location": "back_left", "decade_avg": 2.47},
+        {"location": "front_right", "decade_avg": 2.45},
+        {"location": "front_left", "decade_avg": 2.5}
+      ],
+      "hazards": [
+        {"type": "water", "location": "left", "distance_from_tee": 245},
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 420},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 430}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "water", "severity": 1.0},
+        "right": {"lie": "rough", "severity": 0.4},
+        "short": {"lie": "fairway", "severity": 0.2},
+        "long": {"lie": "rough", "severity": 0.5}
+      },
+      "pga_difficulty_rank": 3,
+      "pga_scoring_avg": 4.25,
+      "description": "Water intrudes at 245 yards from elevated tee. 3x more bogeys than birdies on PGA Tour.",
+      "strategy_notes": "PROTECT hole. Water at 245 demands layup off tee for many. With 295 driver you clear it, but fairway narrows. Consider 275 distance to play safe."
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "yardage": 188,
+      "tee_boxes": {"Black": 188, "Green": 163, "White": 140, "Gold": 134},
+      "nickname": null,
+      "fairway_widths": {},
+      "elevation_change": 0,
+      "green_difficulty": 0.6,
+      "green_zones": [
+        {"location": "back_left", "decade_avg": 2.45},
+        {"location": "front_right", "decade_avg": 2.46},
+        {"location": "front_left", "decade_avg": 2.48}
+      ],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 180},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 185},
+        {"type": "bunker", "location": "short", "distance_from_tee": 170}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "bunker", "severity": 0.5},
+        "right": {"lie": "bunker", "severity": 0.5},
+        "short": {"lie": "bunker", "severity": 0.5},
+        "long": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 12,
+      "pga_scoring_avg": 3.05,
+      "description": "Accessible par 3. Tests high, fading middle iron. Three greenside bunkers plus one short.",
+      "strategy_notes": "Makeable birdie. 188 yards is comfortable 6-iron range. Center of green is always safe play."
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "yardage": 607,
+      "tee_boxes": {"Black": 607, "Green": 570, "White": 526, "Gold": 458},
+      "nickname": null,
+      "fairway_widths": {"250": 32, "275": 22, "300": 25},
+      "elevation_change": 30,
+      "green_difficulty": 0.7,
+      "green_zones": [
+        {"location": "back", "decade_avg": 2.48},
+        {"location": "center", "decade_avg": 2.46},
+        {"location": "front_left", "decade_avg": 2.46},
+        {"location": "front_right", "decade_avg": 2.588}
+      ],
+      "hazards": [
+        {"type": "bunker", "location": "left", "distance_from_tee": 280},
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 580},
+        {"type": "trees", "location": "right", "distance_from_tee": 300}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "bunker", "severity": 0.5},
+        "right": {"lie": "trees", "severity": 0.6},
+        "short": {"lie": "fairway", "severity": 0.1},
+        "long": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 10,
+      "pga_scoring_avg": 4.82,
+      "description": "Long, straightaway uphill march before abrupt leftward bend at crest. Not easily reachable in 2.",
+      "strategy_notes": "607 yards uphill. Not reachable in 2 for most. Lay up to comfortable wedge distance. The front-right zone (2.588) is worst - avoid short-siding right."
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "yardage": 452,
+      "tee_boxes": {"Black": 452, "Green": 422, "White": 406, "Gold": 357},
+      "nickname": null,
+      "fairway_widths": {"250": 33, "275": 27, "300": 26},
+      "elevation_change": 10,
+      "green_difficulty": 0.75,
+      "green_zones": [
+        {"location": "center", "decade_avg": 2.49}
+      ],
+      "hazards": [
+        {"type": "bunker", "location": "right", "distance_from_tee": 270},
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 440},
+        {"type": "trees", "location": "left", "distance_from_tee": 260}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "trees", "severity": 0.6},
+        "right": {"lie": "rough", "severity": 0.4},
+        "short": {"lie": "fairway", "severity": 0.2},
+        "long": {"lie": "rough", "severity": 0.5}
+      },
+      "pga_difficulty_rank": 5,
+      "pga_scoring_avg": 4.18,
+      "description": "Reverse-camber fairways require shaping tee shot against prevailing slope. Elevated green.",
+      "strategy_notes": "PROTECT hole. Long par 4 with reverse camber. Elevated green makes approach play longer. Play for par."
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "yardage": 410,
+      "tee_boxes": {"Black": 410, "Green": 373, "White": 345, "Gold": 335},
+      "nickname": null,
+      "fairway_widths": {"250": 27, "275": 24, "300": 21},
+      "elevation_change": 0,
+      "green_difficulty": 0.65,
+      "green_zones": [
+        {"location": "front_left", "decade_avg": 2.48},
+        {"location": "center_right", "decade_avg": 2.46},
+        {"location": "front_right", "decade_avg": 2.45}
+      ],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 395},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 400}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.3},
+        "right": {"lie": "rough", "severity": 0.3},
+        "short": {"lie": "fairway", "severity": 0.1},
+        "long": {"lie": "bunker", "severity": 0.5}
+      },
+      "pga_difficulty_rank": 6,
+      "pga_scoring_avg": 4.15,
+      "description": "Deceptively tough mid par 4. No fairway bunkers but narrow corridor and large greenside bunkers make it play harder than yardage suggests.",
+      "strategy_notes": "Short yardage but played top-6 hardest in 2024. Bunkers make green look smaller. No need for driver - 275 leaves wedge in."
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "yardage": 232,
+      "tee_boxes": {"Black": 232, "Green": 201, "White": 176, "Gold": 145},
+      "nickname": null,
+      "fairway_widths": {},
+      "elevation_change": 0,
+      "green_difficulty": 0.8,
+      "green_zones": [
+        {"location": "front_left", "decade_avg": 2.46},
+        {"location": "front_right", "decade_avg": 2.47}
+      ],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 220},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 225},
+        {"type": "bunker", "location": "short_right", "distance_from_tee": 200}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "bunker", "severity": 0.5},
+        "right": {"lie": "bunker", "severity": 0.5},
+        "short": {"lie": "rough", "severity": 0.4},
+        "long": {"lie": "rough", "severity": 0.5}
+      },
+      "pga_difficulty_rank": 4,
+      "pga_scoring_avg": 3.22,
+      "description": "Long par 3 that can exceed 250 yards from back. Tests long iron proficiency.",
+      "strategy_notes": "PROTECT hole. 232 yards is hybrid/5-wood range. Center of green and accept par. This is where pros separate from amateurs."
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "yardage": 420,
+      "tee_boxes": {"Black": 420, "Green": 392, "White": 378, "Gold": 343},
+      "nickname": null,
+      "fairway_widths": {"250": 29, "275": 18, "300": 23},
+      "elevation_change": 5,
+      "green_difficulty": 0.8,
+      "green_zones": [
+        {"location": "front_left", "decade_avg": 2.51},
+        {"location": "center_right", "decade_avg": 2.47}
+      ],
+      "hazards": [
+        {"type": "bunker", "location": "left", "distance_from_tee": 265},
+        {"type": "bunker", "location": "right", "distance_from_tee": 255},
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 405}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "bunker", "severity": 0.5},
+        "right": {"lie": "rough", "severity": 0.4},
+        "short": {"lie": "fairway", "severity": 0.1},
+        "long": {"lie": "rough", "severity": 0.5}
+      },
+      "pga_difficulty_rank": 8,
+      "pga_scoring_avg": 4.12,
+      "description": "Bombers' paradise if you carry 295+ to eliminate fairway sand. Slickest putting surface on course.",
+      "strategy_notes": "Fairway narrows to 18 at 275. Either bomb it past the bunkers (295+) or lay back to 250 where it's 29 wide. Slick greens demand lag putting focus."
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "yardage": 441,
+      "tee_boxes": {"Black": 441, "Green": 410, "White": 374, "Gold": 343},
+      "nickname": null,
+      "fairway_widths": {"250": 29, "275": 27, "300": 26},
+      "elevation_change": -10,
+      "green_difficulty": 0.6,
+      "green_zones": [
+        {"location": "front_left", "decade_avg": 2.45},
+        {"location": "center_right", "decade_avg": 2.44}
+      ],
+      "hazards": [
+        {"type": "trees", "location": "left", "distance_from_tee": 250},
+        {"type": "trees", "location": "right", "distance_from_tee": 250},
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 430},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 435}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "trees", "severity": 0.6},
+        "right": {"lie": "trees", "severity": 0.6},
+        "short": {"lie": "fairway", "severity": 0.1},
+        "long": {"lie": "rough", "severity": 0.3}
+      },
+      "pga_difficulty_rank": 14,
+      "pga_scoring_avg": 3.95,
+      "description": "Pure test of execution. Downhill then uphill. Trees line both sides. Most pedestrian hole on course.",
+      "strategy_notes": "Straightforward par 4. Wide enough fairway at all distances. Driver leaves ~146 in. Birdie chance."
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "yardage": 567,
+      "tee_boxes": {"Black": 567, "Green": 525, "White": 514, "Gold": 435},
+      "nickname": null,
+      "fairway_widths": {"250": 27, "275": 22, "300": 26},
+      "elevation_change": 0,
+      "green_difficulty": 0.7,
+      "green_zones": [
+        {"location": "back_left", "decade_avg": 2.47},
+        {"location": "center", "decade_avg": 2.48},
+        {"location": "front_left", "decade_avg": 2.5735}
+      ],
+      "hazards": [
+        {"type": "bunker", "location": "left", "distance_from_tee": 280},
+        {"type": "bunker", "location": "c_shaped_greenside", "distance_from_tee": 527},
+        {"type": "trees", "location": "right", "distance_from_tee": 260}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "bunker", "severity": 0.5},
+        "right": {"lie": "rough", "severity": 0.3},
+        "short": {"lie": "bunker", "severity": 0.6},
+        "long": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 11,
+      "pga_scoring_avg": 4.75,
+      "description": "Par 5 along eastern boundary. C-shaped bunker cuts off fairway 40 yards short of green.",
+      "strategy_notes": "Reachable par 5 but C-shaped bunker guards approach. Driver + mid-iron or lay up to avoid the bunker complex. Front-left zone (2.5735) is the hardest scoring area."
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "yardage": 373,
+      "tee_boxes": {"Black": 373, "Green": 357, "White": 343, "Gold": 315},
+      "nickname": null,
+      "fairway_widths": {"250": 13, "275": 0, "300": 15},
+      "elevation_change": 0,
+      "green_difficulty": 0.7,
+      "green_zones": [
+        {"location": "back_left", "decade_avg": 2.47},
+        {"location": "center_right", "decade_avg": 2.47},
+        {"location": "front_left", "decade_avg": 2.43}
+      ],
+      "hazards": [
+        {"type": "water", "location": "right", "distance_from_tee": 250, "distance_end": 370, "lateral_start": 6},
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 360}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.4},
+        "right": {"lie": "water", "severity": 1.0},
+        "short": {"lie": "fairway", "severity": 0.1},
+        "long": {"lie": "rough", "severity": 0.5}
+      },
+      "pga_difficulty_rank": 15,
+      "pga_scoring_avg": 3.92,
+      "description": "Short but VERY tight. Little sister to hole 3. Water intrudes, fairway width goes to ZERO at 275.",
+      "strategy_notes": "CRITICAL: Fairway is 0 yards wide at 275! Must lay back to 250 (13 wide) or bomb it to 300 (15 wide). With water right, 250 left-center is the smart play."
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "yardage": 199,
+      "tee_boxes": {"Black": 199, "Green": 179, "White": 148, "Gold": 102},
+      "nickname": null,
+      "fairway_widths": {},
+      "elevation_change": 0,
+      "green_difficulty": 0.85,
+      "green_zones": [
+        {"location": "back_left", "decade_avg": 2.47},
+        {"location": "center", "decade_avg": 2.45},
+        {"location": "front_left", "decade_avg": 2.48}
+      ],
+      "hazards": [
+        {"type": "water", "location": "right", "distance_from_tee": 170, "distance_end": 200, "lateral_start": 10},
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 185},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 190}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "bunker", "severity": 0.5},
+        "right": {"lie": "water", "severity": 1.0},
+        "short": {"lie": "rough", "severity": 0.4},
+        "long": {"lie": "rough", "severity": 0.5}
+      },
+      "pga_difficulty_rank": 2,
+      "pga_scoring_avg": 3.28,
+      "description": "Can become a nightmare when wind kicks up. Front-left to back-right green. No easy bailout anywhere.",
+      "strategy_notes": "PROTECT hole. 2nd hardest on course. Water right, bunker left, no bailout. Center of green ALWAYS. Accept par and move on. Wind swirls here."
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "yardage": 590,
+      "tee_boxes": {"Black": 590, "Green": 561, "White": 532, "Gold": 505},
+      "nickname": null,
+      "fairway_widths": {"250": 32, "275": 31, "300": 26},
+      "elevation_change": -5,
+      "green_difficulty": 0.7,
+      "green_zones": [
+        {"location": "center", "decade_avg": 2.48},
+        {"location": "front_left", "decade_avg": 2.588}
+      ],
+      "hazards": [
+        {"type": "water", "location": "right", "distance_from_tee": 320, "distance_end": 420, "lateral_start": 12},
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 570},
+        {"type": "trees", "location": "left", "distance_from_tee": 280}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "trees", "severity": 0.5},
+        "right": {"lie": "water", "severity": 1.0},
+        "short": {"lie": "fairway", "severity": 0.1},
+        "long": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 9,
+      "pga_scoring_avg": 4.80,
+      "description": "Packard's calling-card double-dogleg par 5. Pond on right, huge greenside bunker left.",
+      "strategy_notes": "Double dogleg. Pond right keeps layups honest. Wide fairway at 275 (31 yards). Lay up to avoid pond, leave wedge distance in."
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "yardage": 208,
+      "tee_boxes": {"Black": 208, "Green": 182, "White": 172, "Gold": 148},
+      "nickname": null,
+      "fairway_widths": {},
+      "elevation_change": -15,
+      "green_difficulty": 0.7,
+      "green_zones": [
+        {"location": "back_left", "decade_avg": 2.49},
+        {"location": "center", "decade_avg": 2.47},
+        {"location": "front_right", "decade_avg": 2.52}
+      ],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 195},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 200},
+        {"type": "bunker", "location": "short_left", "distance_from_tee": 180}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "bunker", "severity": 0.5},
+        "right": {"lie": "bunker", "severity": 0.5},
+        "short": {"lie": "bunker", "severity": 0.5},
+        "long": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 7,
+      "pga_scoring_avg": 3.15,
+      "description": "Downhill tee shot. Three bunkers with varied sizing. Elevation and wind judgment critical.",
+      "strategy_notes": "Downhill ~15 feet. Plays shorter than 208. Front-right zone (2.52) is worst. Center-left is always safe. Don't be long."
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "yardage": 458,
+      "tee_boxes": {"Black": 458, "Green": 412, "White": 376, "Gold": 330},
+      "nickname": "Moccasin",
+      "fairway_widths": {"250": 32, "275": 29, "300": 23},
+      "elevation_change": -5,
+      "green_difficulty": 0.8,
+      "green_zones": [
+        {"location": "center", "decade_avg": 2.45},
+        {"location": "front_left", "decade_avg": 2.53}
+      ],
+      "hazards": [
+        {"type": "water", "location": "right", "distance_from_tee": 250, "distance_end": 440, "lateral_start": 10},
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 440},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 445}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "trees", "severity": 0.6},
+        "right": {"lie": "water", "severity": 1.0},
+        "short": {"lie": "fairway", "severity": 0.2},
+        "long": {"lie": "rough", "severity": 0.5}
+      },
+      "pga_difficulty_rank": 1,
+      "pga_scoring_avg": 4.32,
+      "description": "HARDEST hole. Opens Snake Pit. Tee shot between left trees and right lagoon. Elevated green complicates depth perception.",
+      "strategy_notes": "HARDEST HOLE ON COURSE. Water right, trees left. Slightly downhill. Must find fairway. 275 gives 29-yard wide landing zone. Par is a GREAT score."
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "yardage": 206,
+      "tee_boxes": {"Black": 206, "Green": 181, "White": 171, "Gold": 136},
+      "nickname": "The Rattler",
+      "fairway_widths": {},
+      "elevation_change": 0,
+      "green_difficulty": 0.75,
+      "green_zones": [
+        {"location": "back", "decade_avg": 2.45},
+        {"location": "center_left", "decade_avg": 2.46},
+        {"location": "front_left", "decade_avg": 2.48},
+        {"location": "front_right", "decade_avg": 2.49}
+      ],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 195},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 200},
+        {"type": "bunker", "location": "short", "distance_from_tee": 180},
+        {"type": "water", "location": "short_left", "distance_from_tee": 160}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "bunker", "severity": 0.5},
+        "right": {"lie": "bunker", "severity": 0.5},
+        "short": {"lie": "water", "severity": 1.0},
+        "long": {"lie": "rough", "severity": 0.3}
+      },
+      "pga_difficulty_rank": 13,
+      "pga_scoring_avg": 3.05,
+      "description": "Snake Pit par 3. Green is skinny in front, widens to back. False front rejects short shots. Pin location determines difficulty dramatically.",
+      "strategy_notes": "Don't short-side yourself. Green widens at back so back pin is actually easier. Front pins are treacherous with false front. Favor slightly long over short."
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "yardage": 443,
+      "tee_boxes": {"Black": 443, "Green": 390, "White": 376, "Gold": 328},
+      "nickname": "The Copperhead",
+      "fairway_widths": {"250": 24, "275": 20, "300": 17},
+      "elevation_change": 40,
+      "green_difficulty": 0.75,
+      "green_zones": [
+        {"location": "center", "decade_avg": 2.43},
+        {"location": "front_left", "decade_avg": 2.52}
+      ],
+      "hazards": [
+        {"type": "bunker", "location": "left", "distance_from_tee": 260},
+        {"type": "bunker", "location": "right", "distance_from_tee": 265},
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 420},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 425}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "bunker", "severity": 0.5},
+        "right": {"lie": "bunker", "severity": 0.5},
+        "short": {"lie": "fairway", "severity": 0.2},
+        "long": {"lie": "rough", "severity": 0.5}
+      },
+      "pga_difficulty_rank": 16,
+      "pga_scoring_avg": 4.02,
+      "description": "Finishing hole in natural amphitheater. 40 feet uphill. Maze of bunkers. Tight fairway narrows with distance.",
+      "strategy_notes": "40 feet uphill makes approach play ~1 club longer. Tight fairway (20 at 275, 17 at 300). Hit to 275 and accept the mid-iron approach. Center zone (2.43) is best scoring area."
+    }
+  ]
+}
