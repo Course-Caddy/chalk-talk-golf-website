@@ -31,17 +31,6 @@
 
   <title>Chalk Talk Golf</title>
   <link rel="manifest" href="manifest.json">
-  <script>
-    // Force clear old service worker caches on deploy
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.getRegistrations().then(function(registrations) {
-        for (let reg of registrations) { reg.unregister(); }
-      });
-      caches.keys().then(function(names) {
-        for (let name of names) { caches.delete(name); }
-      });
-    }
-  </script>
 </head>
 <body>
   <div id="auth-gate" style="display:flex;align-items:center;justify-content:center;height:100vh;background:#0a1a0a;font-family:-apple-system,BlinkMacSystemFont,sans-serif;">
