@@ -1,0 +1,259 @@
+{
+  "course_name": "TPC Sawgrass - THE PLAYERS Stadium Course",
+  "location": "Ponte Vedra Beach, FL",
+  "par": 72,
+  "total_yardage": 7245,
+  "course_rating": 76.8,
+  "slope": 155,
+  "designer": "Pete Dye",
+  "year_opened": 1980,
+  "green_type": "TifEagle Bermuda",
+  "fairway_type": "Bermuda 419",
+  "typical_green_speed": "13-14 stimp (tournament)",
+  "pga_event": "THE PLAYERS Championship",
+  "pga_scoring_avg_2024": 71.5,
+  "pga_tournament_id": "011",
+  "pga_course_id": "011",
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "yardage": 414,
+      "nickname": null,
+      "tee_boxes": {"Tournament": 414, "Blue": 395, "White": 370},
+      "fairway_widths": {"250": 35, "275": 30, "300": 25},
+      "elevation_change": 0,
+      "green_difficulty": 0.6,
+      "green_zones": [
+        {"location": "front_left", "decade_avg": 3.2},
+        {"location": "center", "decade_avg": 3.0},
+        {"location": "back_right", "decade_avg": 3.3}
+      ],
+      "hazards": [
+        {"type": "bunker", "location": "right", "distance_from_tee": 280},
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 400}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.3},
+        "right": {"lie": "bunker", "severity": 0.5},
+        "short": {"lie": "fairway", "severity": 0.2},
+        "long": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 10,
+      "pga_scoring_avg": 4.05,
+      "description": "Gentle opening par 4 with a wide fairway. Bunker guards the right side off the tee.",
+      "strategy_notes": "Good birdie opportunity. Favor the left side off the tee to open up the green."
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "yardage": 554,
+      "nickname": null,
+      "tee_boxes": {"Tournament": 554, "Blue": 530, "White": 500},
+      "fairway_widths": {"250": 32, "275": 28, "300": 24},
+      "elevation_change": -5,
+      "green_difficulty": 0.7,
+      "green_zones": [
+        {"location": "front_left", "decade_avg": 4.2},
+        {"location": "center", "decade_avg": 4.0},
+        {"location": "back_right", "decade_avg": 4.3}
+      ],
+      "hazards": [
+        {"type": "water", "location": "left", "distance_from_tee": 280, "distance_end": 450},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 540}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "water", "severity": 1.0},
+        "right": {"lie": "rough", "severity": 0.3},
+        "short": {"lie": "fairway", "severity": 0.2},
+        "long": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 14,
+      "pga_scoring_avg": 4.65,
+      "description": "Reachable par 5 with water running down the left side. Risk-reward second shot.",
+      "strategy_notes": "Avoid the water left. Layup right-center if not going for it in two."
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "yardage": 181,
+      "nickname": null,
+      "tee_boxes": {"Tournament": 181, "Blue": 165, "White": 145},
+      "fairway_widths": {},
+      "elevation_change": 0,
+      "green_difficulty": 0.7,
+      "green_zones": [
+        {"location": "front_left", "decade_avg": 3.1},
+        {"location": "center", "decade_avg": 2.9},
+        {"location": "back_right", "decade_avg": 3.2}
+      ],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 175},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 180}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "bunker", "severity": 0.5},
+        "right": {"lie": "bunker", "severity": 0.5},
+        "short": {"lie": "rough", "severity": 0.3},
+        "long": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 11,
+      "pga_scoring_avg": 3.1,
+      "description": "Mid-length par 3 guarded by bunkers on both sides of the green.",
+      "strategy_notes": "Club selection is key. Aim center and take par."
+    },
+    {
+      "number": 4, "par": 4, "yardage": 389,
+      "tee_boxes": {"Tournament": 389, "Blue": 370, "White": 350},
+      "fairway_widths": {"240": 30, "260": 28, "280": 25},
+      "elevation_change": 0, "green_difficulty": 0.6,
+      "green_zones": [], "hazards": [],
+      "miss_penalties": {"left": {"lie": "rough", "severity": 0.3}, "right": {"lie": "rough", "severity": 0.3}},
+      "pga_difficulty_rank": 16, "pga_scoring_avg": 3.95,
+      "description": "Short par 4 birdie opportunity.", "strategy_notes": "Aggressive tee shot to set up short iron approach."
+    },
+    {
+      "number": 5, "par": 4, "yardage": 452,
+      "tee_boxes": {"Tournament": 452, "Blue": 430, "White": 405},
+      "fairway_widths": {"260": 28, "280": 25, "300": 22},
+      "elevation_change": 5, "green_difficulty": 0.8,
+      "green_zones": [], "hazards": [{"type": "water", "location": "left", "distance_from_tee": 430, "distance_end": 460}],
+      "miss_penalties": {"left": {"lie": "water", "severity": 1.0}, "right": {"lie": "rough", "severity": 0.4}},
+      "pga_difficulty_rank": 4, "pga_scoring_avg": 4.2,
+      "description": "Long par 4 with water guarding the left side of the green.", "strategy_notes": "Play right of center. Miss right, never left."
+    },
+    {
+      "number": 6, "par": 4, "yardage": 408,
+      "tee_boxes": {"Tournament": 408, "Blue": 390, "White": 365},
+      "fairway_widths": {"250": 30, "275": 27, "300": 24},
+      "elevation_change": 0, "green_difficulty": 0.6,
+      "green_zones": [], "hazards": [],
+      "miss_penalties": {"left": {"lie": "rough", "severity": 0.3}, "right": {"lie": "rough", "severity": 0.3}},
+      "pga_difficulty_rank": 12, "pga_scoring_avg": 4.05,
+      "description": "Straightforward par 4.", "strategy_notes": "Stock par 4. Hit fairway and attack the pin."
+    },
+    {
+      "number": 7, "par": 4, "yardage": 440,
+      "tee_boxes": {"Tournament": 440, "Blue": 420, "White": 395},
+      "fairway_widths": {"260": 25, "280": 22, "300": 20},
+      "elevation_change": 0, "green_difficulty": 0.7,
+      "green_zones": [], "hazards": [{"type": "water", "location": "right", "distance_from_tee": 420, "distance_end": 450}],
+      "miss_penalties": {"left": {"lie": "rough", "severity": 0.3}, "right": {"lie": "water", "severity": 1.0}},
+      "pga_difficulty_rank": 6, "pga_scoring_avg": 4.15,
+      "description": "Demanding par 4 with water right of the green.", "strategy_notes": "Favor the left side. Water right is a scorecard killer."
+    },
+    {
+      "number": 8, "par": 3, "yardage": 223,
+      "tee_boxes": {"Tournament": 223, "Blue": 200, "White": 180},
+      "fairway_widths": {}, "elevation_change": 0, "green_difficulty": 0.8,
+      "green_zones": [], "hazards": [{"type": "bunker", "location": "greenside_left", "distance_from_tee": 215}, {"type": "bunker", "location": "greenside_right", "distance_from_tee": 220}],
+      "miss_penalties": {"left": {"lie": "bunker", "severity": 0.5}, "right": {"lie": "bunker", "severity": 0.5}},
+      "pga_difficulty_rank": 5, "pga_scoring_avg": 3.2,
+      "description": "Long par 3 with bunkers surrounding the green.", "strategy_notes": "Aim center. Par is a good score here."
+    },
+    {
+      "number": 9, "par": 5, "yardage": 606,
+      "tee_boxes": {"Tournament": 606, "Blue": 580, "White": 545},
+      "fairway_widths": {"270": 30, "290": 27, "310": 24},
+      "elevation_change": 0, "green_difficulty": 0.7,
+      "green_zones": [], "hazards": [{"type": "water", "location": "left", "distance_from_tee": 560, "distance_end": 610}],
+      "miss_penalties": {"left": {"lie": "water", "severity": 1.0}, "right": {"lie": "rough", "severity": 0.3}},
+      "pga_difficulty_rank": 7, "pga_scoring_avg": 4.75,
+      "description": "Long par 5 with water fronting the green.", "strategy_notes": "Three-shot hole for most. Layup right-center and wedge in."
+    },
+    {
+      "number": 10, "par": 4, "yardage": 406,
+      "tee_boxes": {"Tournament": 406, "Blue": 385, "White": 360},
+      "fairway_widths": {"250": 32, "275": 28, "300": 25},
+      "elevation_change": 0, "green_difficulty": 0.6,
+      "green_zones": [], "hazards": [],
+      "miss_penalties": {"left": {"lie": "rough", "severity": 0.3}, "right": {"lie": "rough", "severity": 0.3}},
+      "pga_difficulty_rank": 13, "pga_scoring_avg": 4.0,
+      "description": "Back nine opener. Medium par 4.", "strategy_notes": "Birdie opportunity to start the back nine."
+    },
+    {
+      "number": 11, "par": 5, "yardage": 565,
+      "tee_boxes": {"Tournament": 565, "Blue": 540, "White": 510},
+      "fairway_widths": {"270": 28, "290": 25, "310": 22},
+      "elevation_change": 0, "green_difficulty": 0.8,
+      "green_zones": [], "hazards": [{"type": "water", "location": "left", "distance_from_tee": 520, "distance_end": 570}],
+      "miss_penalties": {"left": {"lie": "water", "severity": 1.0}, "right": {"lie": "bunker", "severity": 0.5}},
+      "pga_difficulty_rank": 3, "pga_scoring_avg": 4.8,
+      "description": "Difficult par 5 with water guarding the left side. Island green feel.", "strategy_notes": "Play smart. Water left kills. Layup if in doubt."
+    },
+    {
+      "number": 12, "par": 4, "yardage": 373,
+      "tee_boxes": {"Tournament": 373, "Blue": 355, "White": 335},
+      "fairway_widths": {"240": 28, "260": 25, "280": 22},
+      "elevation_change": -10, "green_difficulty": 0.7,
+      "green_zones": [], "hazards": [{"type": "water", "location": "left", "distance_from_tee": 350, "distance_end": 380}],
+      "miss_penalties": {"left": {"lie": "water", "severity": 1.0}, "right": {"lie": "rough", "severity": 0.3}},
+      "pga_difficulty_rank": 8, "pga_scoring_avg": 4.1,
+      "description": "Short but tricky par 4 with water left of green.", "strategy_notes": "Short iron off the tee is smart. Avoid the water at all costs."
+    },
+    {
+      "number": 13, "par": 3, "yardage": 172,
+      "tee_boxes": {"Tournament": 172, "Blue": 155, "White": 140},
+      "fairway_widths": {}, "elevation_change": 0, "green_difficulty": 0.6,
+      "green_zones": [], "hazards": [{"type": "bunker", "location": "greenside_right", "distance_from_tee": 168}],
+      "miss_penalties": {"left": {"lie": "rough", "severity": 0.3}, "right": {"lie": "bunker", "severity": 0.5}},
+      "pga_difficulty_rank": 15, "pga_scoring_avg": 3.0,
+      "description": "Birdie par 3. Accessible pin locations.", "strategy_notes": "Go at the flag. This is a scoring hole."
+    },
+    {
+      "number": 14, "par": 4, "yardage": 469,
+      "tee_boxes": {"Tournament": 469, "Blue": 445, "White": 415},
+      "fairway_widths": {"270": 25, "290": 22, "310": 20},
+      "elevation_change": 5, "green_difficulty": 0.8,
+      "green_zones": [], "hazards": [{"type": "water", "location": "right", "distance_from_tee": 440, "distance_end": 475}],
+      "miss_penalties": {"left": {"lie": "rough", "severity": 0.4}, "right": {"lie": "water", "severity": 1.0}},
+      "pga_difficulty_rank": 2, "pga_scoring_avg": 4.25,
+      "description": "Brute of a par 4. Water right of the green. One of the hardest holes on Tour.", "strategy_notes": "Survival mode. Aim left and take your par."
+    },
+    {
+      "number": 15, "par": 4, "yardage": 456,
+      "tee_boxes": {"Tournament": 456, "Blue": 435, "White": 410},
+      "fairway_widths": {"260": 28, "280": 25, "300": 22},
+      "elevation_change": 0, "green_difficulty": 0.7,
+      "green_zones": [], "hazards": [],
+      "miss_penalties": {"left": {"lie": "rough", "severity": 0.3}, "right": {"lie": "rough", "severity": 0.4}},
+      "pga_difficulty_rank": 9, "pga_scoring_avg": 4.1,
+      "description": "Long par 4 leading into the famous finishing stretch.", "strategy_notes": "Keep it in the fairway. Accuracy over distance."
+    },
+    {
+      "number": 16, "par": 5, "yardage": 545,
+      "tee_boxes": {"Tournament": 545, "Blue": 520, "White": 490},
+      "fairway_widths": {"270": 30, "290": 28, "310": 25},
+      "elevation_change": 0, "green_difficulty": 0.7,
+      "green_zones": [], "hazards": [{"type": "water", "location": "left", "distance_from_tee": 500, "distance_end": 550}],
+      "miss_penalties": {"left": {"lie": "water", "severity": 1.0}, "right": {"lie": "rough", "severity": 0.3}},
+      "pga_difficulty_rank": 17, "pga_scoring_avg": 4.6,
+      "description": "Reachable par 5. Eagle opportunity.", "strategy_notes": "Go for it in two if in the fairway. Birdie at minimum."
+    },
+    {
+      "number": 17, "par": 3, "yardage": 143,
+      "nickname": "Island Green",
+      "tee_boxes": {"Tournament": 143, "Blue": 130, "White": 115},
+      "fairway_widths": {}, "elevation_change": -10, "green_difficulty": 0.9,
+      "green_zones": [
+        {"location": "front_left", "decade_avg": 3.3},
+        {"location": "center", "decade_avg": 2.9},
+        {"location": "back_right", "decade_avg": 3.4}
+      ],
+      "hazards": [{"type": "water", "location": "left", "distance_from_tee": 100, "distance_end": 160}, {"type": "water", "location": "right", "distance_from_tee": 100, "distance_end": 160}],
+      "miss_penalties": {"left": {"lie": "water", "severity": 1.0}, "right": {"lie": "water", "severity": 1.0}, "short": {"lie": "water", "severity": 1.0}, "long": {"lie": "water", "severity": 1.0}},
+      "pga_difficulty_rank": 1, "pga_scoring_avg": 3.25,
+      "description": "The most famous par 3 in golf. Island green surrounded entirely by water.", "strategy_notes": "Hit the green. That's it. Aim center and commit."
+    },
+    {
+      "number": 18, "par": 4, "yardage": 443,
+      "tee_boxes": {"Tournament": 443, "Blue": 420, "White": 395},
+      "fairway_widths": {"260": 28, "280": 25, "300": 22},
+      "elevation_change": 0, "green_difficulty": 0.8,
+      "green_zones": [], "hazards": [{"type": "water", "location": "left", "distance_from_tee": 400, "distance_end": 450}],
+      "miss_penalties": {"left": {"lie": "water", "severity": 1.0}, "right": {"lie": "rough", "severity": 0.3}},
+      "pga_difficulty_rank": 3, "pga_scoring_avg": 4.15,
+      "description": "Iconic finishing hole with water all along the left side. Many tournaments decided here.", "strategy_notes": "Favor right side off the tee. Water left on approach is death."
+    }
+  ]
+}
