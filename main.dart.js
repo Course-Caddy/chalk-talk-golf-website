@@ -106044,16 +106044,17 @@ s=A.rT(r,B.ay)}else{s=b.e
 if(s!=null){r=this.a
 p=s.f
 o=c.a
-q=t.p
-n=A.b([A.dO(new A.aL(B.iz,A.bQ(A.b([A.ae("What It Takes to Shoot "+s.a,m,m,m,B.Xa,m,m),B.W,A.cs(A.b([A.bQ(A.b([A.ae(B.c.a4(s.b*100,1)+"%",m,m,m,B.nt,m,m),A.ae("Achievement",m,m,m,B.ns,m,m)],q),B.z,B.n,B.r),A.bQ(A.b([A.ae(B.c.a4(s.c,1),m,m,m,B.nt,m,m),A.ae("Average",m,m,m,B.ns,m,m)],q),B.z,B.n,B.r),A.bQ(A.b([A.ae(B.c.a4(s.d,0),m,m,m,B.nt,m,m),A.ae("Best",m,m,m,B.ns,m,m)],q),B.z,B.n,B.r)],q),B.z,B.mi,B.r,0)],q),B.z,B.n,B.r),m),B.x,m),B.W,A.dO(new A.aL(B.ay,A.bQ(A.b([B.a0P,B.W,r.pj("Driver Distance",""+p.a+" yards",l),r.pj("Fairway %",B.c.a4(p.c*100,0)+"%",l),r.pj("GIR %",B.c.a4(p.d*100,0)+"%",l),r.pj("Scramble %",B.c.a4(p.e*100,0)+"%",l),r.pj("Putts / Round",B.c.a4(p.f,1),l),r.pj("Proximity 100-150",B.c.a4(p.r,0)+" feet",l),r.pj("Proximity 150-200",B.c.a4(p.w,0)+" feet",l)],q),B.a0,B.n,B.r),m),m,m),B.W],q)
-if(o!=null&&b.d!=null)B.b.U(n,A.b([r.abR(s,o,l,b.d.d),B.W],q))
-n.push(r.abO(s,l))
-n.push(B.W)
-n.push(r.abL(s,l))
-n.push(B.W)
+q=s.a
+n=t.p
+q=A.b([A.dO(new A.aL(B.iz,A.bQ(A.b([A.ae("What It Takes to Shoot "+q,m,m,m,B.Xa,m,m),B.W,A.cs(A.b([A.bQ(A.b([A.ae(B.c.a4(s.b*100,1)+"%",m,m,m,B.nt,m,m),A.ae("Achievement",m,m,m,B.ns,m,m)],n),B.z,B.n,B.r),A.bQ(A.b([A.ae(B.e.k(q),m,m,m,B.nt,m,m),A.ae("Target",m,m,m,B.ns,m,m)],n),B.z,B.n,B.r),A.bQ(A.b([A.ae(B.c.a4(s.d,0),m,m,m,B.nt,m,m),A.ae("Best",m,m,m,B.ns,m,m)],n),B.z,B.n,B.r)],n),B.z,B.mi,B.r,0)],n),B.z,B.n,B.r),m),B.x,m),B.W,A.dO(new A.aL(B.ay,A.bQ(A.b([B.a0P,B.W,r.pj("Driver Distance",""+p.a+" yards",l),r.pj("Fairway %",B.c.a4(p.c*100,0)+"%",l),r.pj("GIR %",B.c.a4(p.d*100,0)+"%",l),r.pj("Scramble %",B.c.a4(p.e*100,0)+"%",l),r.pj("Putts / Round",B.c.a4(p.f,1),l),r.pj("Proximity 100-150",B.c.a4(p.r,0)+" feet",l),r.pj("Proximity 150-200",B.c.a4(p.w,0)+" feet",l)],n),B.a0,B.n,B.r),m),m,m),B.W],n)
+if(o!=null&&b.d!=null)B.b.U(q,A.b([r.abR(s,o,l,b.d.d),B.W],n))
+q.push(r.abO(s,l))
+q.push(B.W)
+q.push(r.abL(s,l))
+q.push(B.W)
 s=b.d
-if(s!=null)B.b.U(n,A.b([r.GL(a,s,l,c.a),B.dl],q))
-s=A.rT(n,B.ay)}else if(b.d!=null){s=t.p
+if(s!=null)B.b.U(q,A.b([r.GL(a,s,l,c.a),B.dl],n))
+s=A.rT(q,B.ay)}else if(b.d!=null){s=t.p
 r=A.b([],s)
 q=b.d
 if(q!=null)B.b.U(r,A.b([this.a.GL(a,q,l,c.a),B.dl],s))
