@@ -1,0 +1,416 @@
+{
+  "course_name": "Memorial Park Golf Course",
+  "location": "Houston, TX",
+  "par": 70,
+  "total_yardage": 7412,
+  "course_rating": 76.0,
+  "slope": 139,
+  "designer": "Tom Doak / Brooks Koepka",
+  "year_opened": 2019,
+  "green_type": "Champion Bermuda",
+  "fairway_type": "419 Bermuda",
+  "typical_green_speed": "12-13 stimp (tournament)",
+  "pga_event": "Texas Children's Houston Open",
+  "pga_scoring_avg_2024": 70.3,
+  "pga_scoring_avg_2025": 70.5,
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "yardage": 492,
+      "tee_boxes": {"Tournament": 492},
+      "nickname": null,
+      "fairway_widths": {"275": 30, "300": 28},
+      "elevation_change": 0,
+      "green_difficulty": 0.6,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "left", "distance_from_tee": 290},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 480}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.4},
+        "right": {"lie": "rough", "severity": 0.5}
+      },
+      "pga_difficulty_rank": 5,
+      "pga_scoring_avg": 4.11,
+      "description": "Long par 4 opener. Only 48% FW hit rate. Birdie drive avg 309y.",
+      "strategy_notes": "Protect. Only 7% birdie rate. Hit fairway and take par."
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "yardage": 151,
+      "tee_boxes": {"Tournament": 151},
+      "nickname": null,
+      "fairway_widths": {},
+      "elevation_change": 0,
+      "green_difficulty": 0.5,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 145},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 148}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.3},
+        "right": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 12,
+      "pga_scoring_avg": 3.05,
+      "description": "Short par 3. Left green produces 10.8% birdies vs 8.4% right.",
+      "strategy_notes": "Aim left side of green. Avoid right — higher bogey rate."
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "yardage": 572,
+      "tee_boxes": {"Tournament": 572},
+      "nickname": null,
+      "fairway_widths": {"290": 25, "310": 22, "330": 20},
+      "elevation_change": 0,
+      "green_difficulty": 0.5,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "left", "distance_from_tee": 300},
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 560}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.6},
+        "right": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 18,
+      "pga_scoring_avg": 4.42,
+      "description": "Easiest hole. 58% birdie rate. Only 34% FW but birdies still come.",
+      "strategy_notes": "ATTACK. Max driver. Right side of green produces 51% birdies vs 44% left."
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "yardage": 473,
+      "tee_boxes": {"Tournament": 473},
+      "nickname": null,
+      "fairway_widths": {"275": 30, "300": 28},
+      "elevation_change": 0,
+      "green_difficulty": 0.55,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 465}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.3},
+        "right": {"lie": "rough", "severity": 0.5}
+      },
+      "pga_difficulty_rank": 6,
+      "pga_scoring_avg": 4.08,
+      "description": "Long par 4. 63% FW rate. Miss right costs strokes (4.22 avg).",
+      "strategy_notes": "Protect. Aim left side of green."
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "yardage": 451,
+      "tee_boxes": {"Tournament": 451},
+      "nickname": null,
+      "fairway_widths": {"285": 30, "310": 28},
+      "elevation_change": 0,
+      "green_difficulty": 0.5,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 445}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.4},
+        "right": {"lie": "rough", "severity": 0.3}
+      },
+      "pga_difficulty_rank": 14,
+      "pga_scoring_avg": 3.95,
+      "description": "Gettable par 4. 67% FW. Right green 13.3% birdie vs 8.9% left.",
+      "strategy_notes": "Stock to slight attack. Right side of green. 71% birdie FW rate."
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "yardage": 450,
+      "tee_boxes": {"Tournament": 450},
+      "nickname": null,
+      "fairway_widths": {"275": 32, "300": 28},
+      "elevation_change": 0,
+      "green_difficulty": 0.5,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 440}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.3},
+        "right": {"lie": "rough", "severity": 0.5}
+      },
+      "pga_difficulty_rank": 15,
+      "pga_scoring_avg": 3.89,
+      "description": "Birdie opportunity. 63% FW. Left green 13.6% birdie. Miss right = 15.5% bogey.",
+      "strategy_notes": "Attack. Left side of green. Avoid right — 4.16 avg from right miss."
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "yardage": 212,
+      "tee_boxes": {"Tournament": 212},
+      "nickname": null,
+      "fairway_widths": {},
+      "elevation_change": 0,
+      "green_difficulty": 0.7,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 205},
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 208}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.7},
+        "right": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 3,
+      "pga_scoring_avg": 3.13,
+      "description": "Toughest par 3. 23.8% bogey rate. Miss left = 21.6% bogey!",
+      "strategy_notes": "PROTECT. Right side of green (10.2% birdie vs 6.0% left). DO NOT miss left."
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "yardage": 599,
+      "tee_boxes": {"Tournament": 599},
+      "nickname": null,
+      "fairway_widths": {"290": 28, "310": 25, "330": 22},
+      "elevation_change": 0,
+      "green_difficulty": 0.5,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "left", "distance_from_tee": 305}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.5},
+        "right": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 17,
+      "pga_scoring_avg": 4.58,
+      "description": "Par 5 birdie hole. 47% birdie rate. 46% FW. Left green slightly better.",
+      "strategy_notes": "ATTACK. Left side of green (39% birdie). Max driver."
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "yardage": 153,
+      "tee_boxes": {"Tournament": 153},
+      "nickname": null,
+      "fairway_widths": {},
+      "elevation_change": 0,
+      "green_difficulty": 0.5,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 148}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.3},
+        "right": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 13,
+      "pga_scoring_avg": 3.00,
+      "description": "Short par 3. Plays to even par. Left green 14.4% birdie vs 7.9% right.",
+      "strategy_notes": "Left side of green. 1.72 avg putts from left vs 1.90 from right."
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "yardage": 457,
+      "tee_boxes": {"Tournament": 457},
+      "nickname": null,
+      "fairway_widths": {"290": 30, "310": 26},
+      "elevation_change": 0,
+      "green_difficulty": 0.45,
+      "green_zones": [],
+      "hazards": [],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.3},
+        "right": {"lie": "rough", "severity": 0.3}
+      },
+      "pga_difficulty_rank": 16,
+      "pga_scoring_avg": 3.85,
+      "description": "Best birdie par 4. 23.4% birdie, only 7.1% bogey. FW critical — 57% birdies from FW.",
+      "strategy_notes": "ATTACK. Bomb driver 319y. Right green 15.9% birdie vs 12.0% left."
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "yardage": 205,
+      "tee_boxes": {"Tournament": 205},
+      "nickname": null,
+      "fairway_widths": {},
+      "elevation_change": 0,
+      "green_difficulty": 0.7,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 200},
+        {"type": "water", "location": "right", "distance_from_tee": 195}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.4},
+        "right": {"lie": "water", "severity": 0.9}
+      },
+      "pga_difficulty_rank": 2,
+      "pga_scoring_avg": 3.15,
+      "description": "Hardest par 3. Only 4.1% birdie, 18.6% bogey. Right = water.",
+      "strategy_notes": "PROTECT. Left green (3.4% vs 1.4%). Avoid right — 14.8% bogey."
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "yardage": 499,
+      "tee_boxes": {"Tournament": 499},
+      "nickname": null,
+      "fairway_widths": {"295": 28, "315": 24},
+      "elevation_change": 0,
+      "green_difficulty": 0.55,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 490}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.4},
+        "right": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 8,
+      "pga_scoring_avg": 4.02,
+      "description": "Long par 4. 52% FW. Birdie FW rate 72%. Left green 11.5% birdie.",
+      "strategy_notes": "Stock. Left green. FW critical — 72% of birdies from fairway."
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "yardage": 390,
+      "tee_boxes": {"Tournament": 390},
+      "nickname": null,
+      "fairway_widths": {"270": 32, "295": 28},
+      "elevation_change": 0,
+      "green_difficulty": 0.5,
+      "green_zones": [],
+      "hazards": [],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.5},
+        "right": {"lie": "rough", "severity": 0.3}
+      },
+      "pga_difficulty_rank": 10,
+      "pga_scoring_avg": 3.96,
+      "description": "Short par 4. 57% FW. Right green 13.8% birdie. Miss left = 4.17 avg.",
+      "strategy_notes": "Stock. Right green slightly better. Miss left costly (4.17 avg)."
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "yardage": 515,
+      "tee_boxes": {"Tournament": 515},
+      "nickname": null,
+      "fairway_widths": {"280": 28, "300": 24},
+      "elevation_change": 0,
+      "green_difficulty": 0.75,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 510},
+        {"type": "water", "location": "right", "distance_from_tee": 500}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.4},
+        "right": {"lie": "water", "severity": 0.9}
+      },
+      "pga_difficulty_rank": 1,
+      "pga_scoring_avg": 4.32,
+      "description": "HARDEST HOLE. +0.32 vs par. 33% bogey. Right green = 27.2% bogey, 0.6% birdie.",
+      "strategy_notes": "PROTECT. LEFT green only (4.9% birdie vs 0.6% right). 80% of birdies from FW. DO NOT go right."
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "yardage": 136,
+      "tee_boxes": {"Tournament": 136},
+      "nickname": null,
+      "fairway_widths": {},
+      "elevation_change": 0,
+      "green_difficulty": 0.55,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 130}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "bunker", "severity": 0.4},
+        "right": {"lie": "rough", "severity": 0.3}
+      },
+      "pga_difficulty_rank": 9,
+      "pga_scoring_avg": 3.05,
+      "description": "Shortest hole. 11.5% birdie. Left green slightly better.",
+      "strategy_notes": "Stock. Left green (7.6% vs 5.6% birdie)."
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "yardage": 571,
+      "tee_boxes": {"Tournament": 571},
+      "nickname": null,
+      "fairway_widths": {"290": 30, "310": 26, "330": 22},
+      "elevation_change": 0,
+      "green_difficulty": 0.55,
+      "green_zones": [],
+      "hazards": [
+        {"type": "water", "location": "right", "distance_from_tee": 290, "distance_end": 350, "lateral_start": 10}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.4},
+        "right": {"lie": "water", "severity": 0.9}
+      },
+      "pga_difficulty_rank": 4,
+      "pga_scoring_avg": 4.67,
+      "description": "Par 5 but hardest of the three. 48% birdie, 15.6% bogey. RIGHT tee miss = 5.48 avg!",
+      "strategy_notes": "ATTACK but respect the right side. Right green (49% birdie). DO NOT miss right off the tee (5.48 avg)."
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "yardage": 390,
+      "tee_boxes": {"Tournament": 390},
+      "nickname": null,
+      "fairway_widths": {"245": 32, "270": 28},
+      "elevation_change": 0,
+      "green_difficulty": 0.55,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_right", "distance_from_tee": 385}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.3},
+        "right": {"lie": "rough", "severity": 0.6}
+      },
+      "pga_difficulty_rank": 7,
+      "pga_scoring_avg": 4.05,
+      "description": "Short par 4. Birdie drive only 268y — layup hole. Miss right = 4.57 avg.",
+      "strategy_notes": "Stock. Accuracy > distance (268y birdie drive). Left green 12% birdie vs 4.5% right."
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "yardage": 488,
+      "tee_boxes": {"Tournament": 488},
+      "nickname": null,
+      "fairway_widths": {"290": 32, "310": 30},
+      "elevation_change": 0,
+      "green_difficulty": 0.5,
+      "green_zones": [],
+      "hazards": [
+        {"type": "bunker", "location": "greenside_left", "distance_from_tee": 480}
+      ],
+      "miss_penalties": {
+        "left": {"lie": "rough", "severity": 0.3},
+        "right": {"lie": "rough", "severity": 0.4}
+      },
+      "pga_difficulty_rank": 11,
+      "pga_scoring_avg": 3.96,
+      "description": "Closing par 4. 71% FW — easiest to hit. Right green 13.9% birdie.",
+      "strategy_notes": "Stock. Right green (13.9% vs 9.2% birdie). 71% FW rate — hit driver confidently."
+    }
+  ]
+}
