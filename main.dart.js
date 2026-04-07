@@ -30256,11 +30256,11 @@ this.b=b
 this.c=c},
 b9Y(a){var s,r,q
 if(a!=null){s=a.a.toLowerCase()
-for(r=0;r<4;++r){q=B.dQ[r]
+for(r=0;r<4;++r){q=B.dP[r]
 if(B.d.p(s,"sawgrass")||B.d.p(s,"players"))if(q.d==="011")return q
 if(B.d.p(s,"copperhead")||B.d.p(s,"innisbrook"))if(q.d==="665")return q
 if(B.d.p(s,"memorial")||B.d.p(s,"houston"))if(q.d==="897")return q
-if(B.d.p(s,"san antonio")||B.d.p(s,"valero")||B.d.p(s,"oaks"))if(q.d==="041")return q}}return B.b.gac(B.dQ)},
+if(B.d.p(s,"san antonio")||B.d.p(s,"valero")||B.d.p(s,"oaks"))if(q.d==="770")return q}}return B.b.gac(B.dP)},
 V9:function V9(a){this.a=a},
 ary:function ary(a){this.a=a},
 arx:function arx(a,b,c,d,e){var _=this
@@ -46152,7 +46152,7 @@ n=o.w=s.charCodeAt(0)==0?s:s}return n},
 gyz(){var s,r,q=this,p=q.x
 if(p===$){s=q.e
 if(s.length!==0&&s.charCodeAt(0)===47)s=B.d.cO(s,1)
-r=s.length===0?B.dP:A.l9(new A.U(A.b(s.split("/"),t.s),A.bba(),t.Gf),t.N)
+r=s.length===0?B.dQ:A.l9(new A.U(A.b(s.split("/"),t.s),A.bba(),t.Gf),t.N)
 q.x!==$&&A.aF()
 p=q.x=r}return p},
 gn(a){var s,r=this,q=r.y
@@ -46330,7 +46330,7 @@ gm0(){var s=this.r,r=this.a
 return s<r.length?B.d.cO(r,s+1):""},
 gyz(){var s,r,q=this.e,p=this.f,o=this.a
 if(B.d.dT(o,"/",q))++q
-if(q===p)return B.dP
+if(q===p)return B.dQ
 s=A.b([],t.s)
 for(r=q;r<p;++r)if(o.charCodeAt(r)===47){s.push(B.d.a2(o,q,r))
 q=r+1}s.push(B.d.a2(o,q,p))
@@ -63118,7 +63118,7 @@ r.ghy().cK(B.ds,r.gpx())
 r.ghy().a_(r.gUr())},
 gmg(){var s,r,q,p,o,n=this
 n.a.toString
-s=J.mC(B.dP.slice(0),t.N)
+s=J.mC(B.dQ.slice(0),t.N)
 if(s!=null){r=n.y.gT()
 r.toString
 r=A.d1(r)
@@ -63232,7 +63232,7 @@ a5=a4.aF
 a6=a5?d:b4
 a4=a4.k4
 a7=$.aNv()
-a8=A.b18(B.dP)
+a8=A.b18(B.dQ)
 A.b17()
 if(t.qY.b(a6))a9=B.Dc
 else if(a2)a9=B.a23
@@ -63241,7 +63241,7 @@ q=A.b([$.aWA()],q)
 B.b.S(q,p)
 p=A.b19()
 b0=A.b1a()
-r=A.VQ(b,new A.wp(m,l,"\u2022",a2,!1,a9,a1,!0,a8,a0.db,a0.dx,!0,n,b4,b4,B.be,b4,B.X1,c,g,B.fL,1,b4,!1,!1,a3,a6,a0.w,b4,a4,b4,b4,b4,b3.gajh(),b3.gajn(),B.hO,b4,b4,q,B.bT,!0,2,b4,f,i,h,j,p,b0,r.a,B.iH,a5,B.X,b4,b4,!0,!0,!0,B.dP,b3,B.F,"editable",!0,b4,A.bcP(),k,a7,b4,b3.y))
+r=A.VQ(b,new A.wp(m,l,"\u2022",a2,!1,a9,a1,!0,a8,a0.db,a0.dx,!0,n,b4,b4,B.be,b4,B.X1,c,g,B.fL,1,b4,!1,!1,a3,a6,a0.w,b4,a4,b4,b4,b4,b3.gajh(),b3.gajn(),B.hO,b4,b4,q,B.bT,!0,2,b4,f,i,h,j,p,b0,r.a,B.iH,a5,B.X,b4,b4,!0,!0,!0,B.dQ,b3,B.F,"editable",!0,b4,A.bcP(),k,a7,b4,b3.y))
 b3.a.toString
 b1=A.iM(new A.q8(A.b([l,m],t.Eo)),new A.aFF(b3,l,m),new A.jf(r,b4))
 b3.a.toString
@@ -81201,7 +81201,7 @@ s=r.j(0,B.CX)?B.CV:B.CW
 k=h.a
 j=k.dy
 i=k.ad
-return A.aSu(null,B.dP,o,e,!1,!0,l,!0,k.cr,s,r,i,p,q,n,m,j,g)},
+return A.aSu(null,B.dQ,o,e,!1,!0,l,!0,k.cr,s,r,i,p,q,n,m,j,g)},
 a5Y(a,b){this.aa(new A.aaj(this,a,b))},
 aqy(a){var s=this,r=s.a,q=!1
 if(r.aK)if(r.d.gc9()){r=s.a.p2
@@ -106077,11 +106077,11 @@ s===$&&A.a()
 s.l()
 this.aJ()},
 afD(a){var s,r,q=a.a.toLowerCase()
-for(s=0;s<4;++s){r=B.dQ[s]
+for(s=0;s<4;++s){r=B.dP[s]
 if(B.d.p(q,"sawgrass")||B.d.p(q,"players"))if(r.d==="011")return r
 if(B.d.p(q,"copperhead")||B.d.p(q,"innisbrook"))if(r.d==="665")return r
 if(B.d.p(q,"memorial")||B.d.p(q,"houston"))if(r.d==="897")return r
-if(B.d.p(q,"san antonio")||B.d.p(q,"valero")||B.d.p(q,"oaks"))if(r.d==="041")return r}return B.b.gac(B.dQ)},
+if(B.d.p(q,"san antonio")||B.d.p(q,"valero")||B.d.p(q,"oaks"))if(r.d==="770")return r}return B.b.gac(B.dP)},
 M(a){return A.aJT(new A.av7(this),t.Xj,t.eV)},
 acb(a){var s=null
 return A.bU(s,A.aKO(new A.av2(this,a),a.length,B.iI,B.aK),B.o,B.fD,s,s,s,52,s,s,s,s,s)},
@@ -106422,11 +106422,11 @@ q=s.a
 q.toString
 if(r.b.length===0&&q.gmN().length!==0)r.uW(B.b.gac(q.gmN()))}},
 Sl(a){var s,r,q=a.a.toLowerCase()
-for(s=0;s<4;++s){r=B.dQ[s]
+for(s=0;s<4;++s){r=B.dP[s]
 if(B.d.p(q,"sawgrass")||B.d.p(q,"players"))if(r.d==="011")return r
 if(B.d.p(q,"copperhead")||B.d.p(q,"innisbrook")||B.d.p(q,"valspar"))if(r.d==="665")return r
 if(B.d.p(q,"memorial")||B.d.p(q,"houston"))if(r.d==="897")return r
-if(B.d.p(q,"san antonio")||B.d.p(q,"valero")||B.d.p(q,"oaks"))if(r.d==="041")return r}return B.b.gac(B.dQ)},
+if(B.d.p(q,"san antonio")||B.d.p(q,"valero")||B.d.p(q,"oaks"))if(r.d==="041")return r}return B.b.gac(B.dP)},
 w3(a){return this.alH(a)},
 alH(a){var s=0,r=A.w(t.H),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f
 var $async$w3=A.x(function(b,c){if(b===1){o.push(c)
@@ -106550,7 +106550,7 @@ return A.v($async$rR,r)},
 M(a){return A.aJT(new A.awu(this),t.eV,t.Xj)},
 ac4(a,b){var s=null,r=A.j_(B.eK,b?B.l7:B.im,s,80),q=A.a5("No Course Loaded",s,s,s,A.aW(s,s,b?B.G:B.bj,s,s,s,s,s,s,s,s,20,s,s,B.a6,s,s,!0,s,s,s,s,s,s,s,s),s,s)
 r=A.b([r,B.cz,q,B.aN,A.a5("Load a course to begin analysis",s,s,s,A.aW(s,s,b?B.a4:B.a5,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.dr],t.p)
-B.b.S(r,new A.U(B.dQ,new A.awc(this),t.Rw))
+B.b.S(r,new A.U(B.dP,new A.awc(this),t.Rw))
 return A.eM(A.bB(r,B.r,B.cR,B.n),s,s)},
 ac0(a,b,c,d){var s,r,q,p=this,o=null,n=b.a,m=n.gmN(),l=c.b,k=l.length!==0,j=k?n.yW(l):n.d,i=A.a5(n.a,o,o,o,B.D5,o,o),h=n.c,g=t.p
 i=A.b([i,B.cX,A.a5("Par "+h+" | "+j+" yards",o,o,o,A.aW(o,o,d?B.G:B.bj,o,o,o,o,o,o,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)],g)
@@ -111316,12 +111316,12 @@ B.Ef=new A.NC(127)
 B.kB=new A.B8(0,"polite")
 B.oj=new A.a62(0,"polite")
 B.kC=new A.B8(1,"assertive")
-B.dP=s([],t.s)
+B.dQ=s([],t.s)
 B.k=new A.Hf(1,"downstream")
 B.c5=new A.fy(-1,-1,B.k,!1,-1,-1)
 B.aH=new A.c7(-1,-1)
 B.CR=new A.cl("",B.c5,B.aH)
-B.ok=new A.vJ(!1,"",B.dP,B.CR,null)
+B.ok=new A.vJ(!1,"",B.dQ,B.CR,null)
 B.bY=new A.vL(0,"up")
 B.d9=new A.vL(1,"right")
 B.bp=new A.vL(2,"down")
@@ -112479,6 +112479,15 @@ B.MH=s([6.43023796,2.98020421],t.n)
 B.r6=s([B.MG,B.LO,B.NE,B.NH,B.MA,B.MC,B.N7,B.ML,B.N_,B.MB,B.MH],t.zg)
 B.Mz=s([B.kB,B.kC],A.ak("B<B8>"))
 B.r7=s([0,1,2,3,4,4,5,5,6,6,6,6,7,7,7,7,8,8,8,8,8,8,8,8,9,9,9,9,9,9,9,9,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,0,0,16,17,18,18,19,19,20,20,20,20,21,21,21,21,22,22,22,22,22,22,22,22,23,23,23,23,23,23,23,23,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29],t.t)
+B.MV=s(["R2026011","R2025011"],t.s)
+B.S3=new A.li("TPC Sawgrass (THE PLAYERS)","assets/courses/tpc_sawgrass.json","011","011",B.MV)
+B.LH=s(["R2026475","R2025475","R2024475","R2023475","R2022475"],t.s)
+B.S4=new A.li("Copperhead (Valspar)","assets/courses/copperhead.json","475","665",B.LH)
+B.MX=s(["R2026020"],t.s)
+B.S2=new A.li("Memorial Park (Houston Open)","assets/courses/memorial_park.json","020","897",B.MX)
+B.MY=s(["R2026041"],t.s)
+B.S1=new A.li("TPC San Antonio (Valero Texas Open)","assets/courses/tpc_san_antonio.json","041","770",B.MY)
+B.dP=s([B.S3,B.S4,B.S2,B.S1],A.ak("B<li>"))
 B.bP=new A.lK(0,"label")
 B.bn=new A.lK(1,"avatar")
 B.cD=new A.lK(2,"deleteIcon")
@@ -112652,15 +112661,6 @@ B.RO=new A.f9(204,11,"cyrillic")
 B.RP=new A.f9(222,12,"thai")
 B.RQ=new A.f9(238,13,"easternEuropean")
 B.NF=s([B.RE,B.RN,B.RR,B.RF,B.RG,B.RH,B.RI,B.RJ,B.RK,B.RL,B.RM,B.RO,B.RP,B.RQ],A.ak("B<f9>"))
-B.MV=s(["R2026011","R2025011"],t.s)
-B.S3=new A.li("TPC Sawgrass (THE PLAYERS)","assets/courses/tpc_sawgrass.json","011","011",B.MV)
-B.LH=s(["R2026475","R2025475","R2024475","R2023475","R2022475"],t.s)
-B.S4=new A.li("Copperhead (Valspar)","assets/courses/copperhead.json","475","665",B.LH)
-B.MX=s(["R2026020"],t.s)
-B.S2=new A.li("Memorial Park (Houston Open)","assets/courses/memorial_park.json","020","897",B.MX)
-B.MY=s(["R2026041"],t.s)
-B.S1=new A.li("TPC San Antonio (Valero Texas Open)","assets/courses/tpc_san_antonio.json","041","041",B.MY)
-B.dQ=s([B.S3,B.S4,B.S2,B.S1],A.ak("B<li>"))
 B.QR=new A.f(0,2)
 B.EP=new A.ej(0.75,B.ef,B.pa,B.QR,1.5)
 B.NI=s([B.EP],t.sq)
