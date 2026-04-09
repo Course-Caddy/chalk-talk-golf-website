@@ -3,12 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "a5990e452c2ea7598c3b429d86d43ee1",
+const RESOURCES = {"flutter_bootstrap.js": "3e2a1e32d791fece27b27297a37084ec",
 "version.json": "20156c37df70a167911571ce31e892e2",
 "index.html": "e259452f53500e79e311bc4b0df2cda4",
 "/": "e259452f53500e79e311bc4b0df2cda4",
 "CNAME": "7b97cc27e5b53507b2c22d140e785732",
-"main.dart.js": "1bf00636c789b945b0d68b808ca327e9",
+"main.dart.js": "7f41c1bca635d62c2e9f85c76ec4e0b3",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -133,7 +133,7 @@ const RESOURCES = {"flutter_bootstrap.js": "a5990e452c2ea7598c3b429d86d43ee1",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/shaders/stretch_effect.frag": "40d68efbbf360632f614c731219e95f0",
 "assets/AssetManifest.bin": "46cedbb477b82050e6e315297a14881f",
-"assets/fonts/MaterialIcons-Regular.otf": "add0b78cd4295cc23af626d9f24666e2",
+"assets/fonts/MaterialIcons-Regular.otf": "2021cd515da69d1c8703e6d994b1ae36",
 "assets/assets/courses/memorial_park.json": "404d52505d6a5d2fc8e12bcf75795ca9",
 "assets/assets/courses/tpc_sawgrass.json": "b590d63b72874d7b84e4a98f838d3f7a",
 "assets/assets/courses/copperhead.json": "da0167ce56c90c1e4ae8db2745f4bed4",
