@@ -105820,15 +105820,16 @@ A.dz(r,!1,t.EQ).rb(a,s.b)},
 M(a){var s=null,r=A.X(a)
 return A.k9(A.nZ(s,s,s,A.bB(A.b([B.a1q,A.a5(this.a.c.a,s,s,s,B.ZF,s,s)],t.p),B.W,B.l,B.n)),s,A.aJU(new A.avM(this,r.ax.a===B.Y),t.EQ),s)},
 aca(a){return A.e0(A.aKQ(new A.avA(this,a),18,null,B.aK),40,null)},
-acu(a){var s,r,q,p,o,n=this,m=null
-if(a.r)return new A.qL(2.34,A.bU(m,B.Gi,B.o,m,m,new A.ca(B.ig,m,m,A.bO(12),m,m,B.Z),m,m,m,m,m,m,m),m)
-s=A.aML(a.a,m)
-r=n.gUC()
-q=a.gDW()
-p=n.a.c
-o=n.d
-o===$&&A.a()
-return new A.Qf(r,q,p.lo(o).b,n.e,s,m)},
+acu(a){var s,r,q,p,o,n,m=this,l=null
+if(a.r)return new A.qL(2.34,A.bU(l,B.Gi,B.o,l,l,new A.ca(B.ig,l,l,A.bO(12),l,l,B.Z),l,l,l,l,l,l,l),l)
+s=m.a.f!=="augusta"
+r=s?A.aML(a.a,l):A.b([],t.cK)
+q=m.gUC()
+p=s?a.gDW():A.b([],t.Cn)
+o=m.a.c
+n=m.d
+n===$&&A.a()
+return new A.Qf(q,p,o.lo(n).b,m.e,r,l)},
 acg(a){var s=this,r=s.Ha(a,s.e,B.qK,"Lines",new A.avE(s)),q=s.f,p=q?"Full Hole":"Green View",o=t.p
 return A.bB(A.b([B.na,B.aN,A.bW(A.b([r,B.hF,s.Ha(a,q,B.qM,p,new A.avF(s)),B.hF,s.Ha(a,!1,B.K2,"Expand",new A.avG(s))],o),B.r,B.cR,B.n,0)],o),B.r,B.l,B.n)},
 Ha(a,b,c,d,e){var s,r,q,p,o,n=null
@@ -106049,7 +106050,7 @@ A.ayO.prototype={
 $3(a,b,c){var s=null,r=b.gDW(),q=this.a,p=q.d,o=q.a,n=p?o.d:o.c
 p=t.p
 o=A.b([A.QB(n,s,B.EN,s,new A.ayI(),s)],p)
-if(J.qD(r))o.push(A.fo(s,s,s,new A.wG(r,q.a.e.b,q.e,q.f,A.aML(b.a,s),s),B.I))
+if(J.qD(r)&&!B.d.p(q.a.c,"masters.com"))o.push(A.fo(s,s,s,new A.wG(r,q.a.e.b,q.e,q.f,A.aML(b.a,s),s),B.I))
 p=A.b([A.dI(A.aKG(A.eR(s,A.iA(B.bQ,o,B.F,B.nt,s),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ayJ(q,r,a),s,s,s,s,s,!1,B.aU),5,0.5),1),B.RD],p)
 if(q.f!=null)p.push(q.act())
 return A.bB(p,B.r,B.l,B.n)},
@@ -107275,7 +107276,7 @@ p=J.aE(h)
 r=A.bU(m,A.bW(A.b([A.dI(A.bB(A.b([A.a5(k.glQ(),m,m,m,B.Yj,m,m),B.f8,A.a5("Target: "+B.c.a0(k.y,1),m,m,m,B.Yd,m,m)],q),B.W,B.l,B.n),1),A.a5(""+p.gA(h)+" shots",m,m,m,B.YI,m,m)],q),B.r,B.l,B.n,0),B.o,m,m,new A.ca(s,m,m,r,m,m,B.Z),m,m,m,B.Jb,m,m,1/0)
 s=A.bO(12)
 k=A.b([A.QB(i,m,B.kH,1/0,new A.az6(),1/0)],q)
-if(p.gbU(h)&&!n.d)k.push(A.fo(m,m,m,new A.wG(h,n.a.c.b,n.e,m,n.x,m),B.I))
+if(p.gbU(h)&&!n.d&&!B.d.p(n.a.e,"masters.com"))k.push(A.fo(m,m,m,new A.wG(h,n.a.c.b,n.e,m,n.x,m),B.I))
 if(n.y)k.push(A.bU(m,B.Gh,B.o,B.p9,m,m,m,m,m,m,m,m,m))
 k=A.o6(s,A.aKG(new A.qL(2.34,A.iA(B.bQ,k,B.F,B.nt,m),m),5,1))
 s=!n.d
